@@ -46,7 +46,10 @@ What is a Kubernetes cluster?
 
     Kubernetes also needs to integrate with networking, storage, security, telemetry, and other services to provide a comprehensive container infrastructure.
 
-    C:\Users\HP\Bhratesh\Kubernetes-Zero-to-Hero\Day-1\kubernetes-diagram-902x416.png.png
+    <div align="center">
+  <img src="https://github.com/bhrateshd/Kubernetes-Zero-to-Hero/blob/master/Day-1/kubernetes-diagram-902x416.png.png" />
+</div>
+
 
     Once you scale this to a production environment and multiple applications, it's clear that you need multiple, colocated containers working together to deliver the individual services. 
 
