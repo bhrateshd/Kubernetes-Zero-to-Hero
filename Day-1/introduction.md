@@ -11,7 +11,6 @@ What is a Kubernetes cluster?
 
      
     Each node is its own Linux environment, and could be either a physical or virtual machine. Each node runs pods, which are made up of containers. 
-    width="600" height="300"
 
     The control plane is responsible for maintaining the desired state of the cluster, such as which applications are running and which container images they use. Compute machines actually run the applications and workloads. The control plane takes commands from an administrator (or DevOps team) and relays those instructions to the compute machines.
 
