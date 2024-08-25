@@ -5,8 +5,10 @@ What is a Kubernetes cluster?
 
     A working Kubernetes deployment is called a cluster, which is a group of hosts running Linux® containers. You can visualize a Kubernetes cluster as two parts: the control plane and the compute machines, or nodes.
 
-     https://github.com/bhrateshd/Kubernetes-Zero-to-Hero/blob/master/Day-1/image.png
-
+<div align="center">
+  <img src="https://github.com/bhrateshd/Kubernetes-Zero-to-Hero/blob/master/Day-1/image.png" width="600" height="300"/>
+</div>
+     
     Each node is its own Linux environment, and could be either a physical or virtual machine. Each node runs pods, which are made up of containers. 
 
     The control plane is responsible for maintaining the desired state of the cluster, such as which applications are running and which container images they use. Compute machines actually run the applications and workloads. The control plane takes commands from an administrator (or DevOps team) and relays those instructions to the compute machines.
