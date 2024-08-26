@@ -25,6 +25,7 @@ Kubernetes (also known as k8s or “kube”) is an open source container orchest
     Where you run Kubernetes is up to you. This can be on bare metal servers, virtual machines (VMs), public cloud providers, private clouds, and hybrid cloud environments. One of Kubernetes’ key advantages is it works on many different kinds of infrastructure.
 
 **Benefits of Using Kubernetes**
+
     1. Automated deployment and management
     If you are using Kubernetes for deploying the application then no need for manual intervention kubernetes will take care of everything like automating the deployment, scaling, and containerizing the application.
     Kubernetes will reduce the errors that can be made by humans which makes the deployment more effective.
@@ -34,9 +35,10 @@ Kubernetes (also known as k8s or “kube”) is an open source container orchest
 
     3. High availability
     You can achieve high availability for your application with the help of Kubernetes and also it will reduce the latency issues for the end users.
-    
+
     4. Cost-effectiveness
     If there is unnecessary use of infrastructure the cost will also increase kubernetes will help you to reduce resource utilization and control the overprovisioning of infrastructure.
+
     5. Improved developer productivity
     Developer can concentrate more on the developing part kubernetes will reduce the efforts of deploying the application
 
