@@ -4,7 +4,7 @@ Kubernetes (also known as k8s or “kube”) is an open source container orchest
 **What is a Kubernetes cluster?**   
 
     A working Kubernetes deployment is called a cluster, which is a group of hosts running Linux® containers. You can visualize a Kubernetes cluster as two parts: the control plane and the compute machines, or nodes.
-
+![alt text](kube22-1-1024x439.png)
 <div align="center">
   <img src="https://github.com/bhrateshd/Kubernetes-Zero-to-Hero/blob/master/Day-1/image.png" />
 </div>
