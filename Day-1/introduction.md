@@ -1,7 +1,7 @@
 Kubernetes (also known as k8s or “kube”) is an open source container orchestration platform that automates many of the manual processes involved in deploying, managing, and scaling containerized applications.
 
 
-What is a Kubernetes cluster?   
+**What is a Kubernetes cluster?**   
 
     A working Kubernetes deployment is called a cluster, which is a group of hosts running Linux® containers. You can visualize a Kubernetes cluster as two parts: the control plane and the compute machines, or nodes.
 
